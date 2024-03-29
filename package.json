@@ -1,7 +1,7 @@
 {
-	"name": "nodeworldoftext",
+	"name": "freeworldoftext",
 	"version": "1.0.0",
-	"description": "OurWorldOfText server",
+	"description": "FWOT server",
 	"dependencies": {
 		"adm-zip": "^0.5.10",
 		"nodemailer": "^6.4.16",
