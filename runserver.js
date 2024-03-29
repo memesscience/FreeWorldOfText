@@ -1,8 +1,7 @@
 /*
-**  Our World of Text
-**  Est. May 1, 2016 as Your World of Text Node, and November 19, 2016 as Node World of Text
-**  Reprogrammed September 17, 2017
-**  Released October 8, 2017 as Our World of Text
+**  Free World of Text
+**  Est. April 1, 2024
+**  memesscience's fork of OWOT, the third and final installation of the World of Text series
 **  This is the main file
 */
 
