@@ -1,4 +1,4 @@
-# Our World Of Text #
+# Free World Of Text #
 
 ## Software Requirements
 
@@ -7,7 +7,7 @@
     * Not strictly necessary, but it's convenient for quickly downloading and updating your local repository.
 
 ## Quickstart
-* Clone the OWOT repository
+* Clone the FWOT repository
     * `git clone https://github.com/system2k/nodeworldoftext.git nwot`
 * Navigate to the directory
     * `cd nwot`
